@@ -1100,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -3153,6 +3154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nikhiltomar2712/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -4953,6 +4955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -5713,6 +5716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
+| [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 ## Interactive
 |  |
 | ------- |
