@@ -1097,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -3944,6 +3945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -5508,6 +5510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
