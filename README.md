@@ -1098,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -2122,6 +2123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3164-find-the-number-of-good-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3164-find-the-number-of-good-pairs-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3177-find-the-maximum-length-of-a-good-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3177-find-the-maximum-length-of-a-good-subsequence-ii) |
+| [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -3948,6 +3950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/nikhiltomar2712/leetcode/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
+| [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -5084,6 +5087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3100-water-bottles-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3100-water-bottles-ii) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nikhiltomar2712/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
@@ -6203,6 +6207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/nikhiltomar2712/leetcode/tree/master/2296-design-a-text-editor) |
 | [2408-design-sql](https://github.com/nikhiltomar2712/leetcode/tree/master/2408-design-sql) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nikhiltomar2712/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Doubly-Linked List
 |  |
 | ------- |
