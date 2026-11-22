@@ -1101,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+| [3245-alternating-groups-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3245-alternating-groups-iii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -5632,6 +5633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3245-alternating-groups-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3245-alternating-groups-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
@@ -5717,6 +5719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/nikhiltomar2712/leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [3102-minimize-manhattan-distances](https://github.com/nikhiltomar2712/leetcode/tree/master/3102-minimize-manhattan-distances) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
+| [3245-alternating-groups-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3245-alternating-groups-iii) |
 ## Interactive
 |  |
 | ------- |
