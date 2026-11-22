@@ -2371,6 +2371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/nikhiltomar2712/leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -2570,6 +2571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/nikhiltomar2712/leetcode/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -4841,6 +4843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3202-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3202-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -4943,6 +4946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/nikhiltomar2712/leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -6694,6 +6698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2925-maximum-score-after-applying-operations-on-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/2925-maximum-score-after-applying-operations-on-a-tree) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
+| [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 ## Ternary Search
 |  |
 | ------- |
