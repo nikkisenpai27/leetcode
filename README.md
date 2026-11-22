@@ -1099,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3240-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/nikhiltomar2712/leetcode/tree/master/3242-design-neighbor-sum-service) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -3725,6 +3726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -4950,6 +4952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
+| [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
