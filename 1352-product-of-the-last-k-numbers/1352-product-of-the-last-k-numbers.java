@@ -1,35 +1,34 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class ProductOfNumbers {
-    // prefix[i] = product of all numbers added since the last zero (up to index i-1)
-    private List<Integer> prefix;
-    private int lastZeroIndex; // index in prefix list where the last zero reset occurred
+    // Stores the prefix products. The first element is always 1.
+    private List<Integer> prefixProducts;
 
     public ProductOfNumbers() {
-        prefix = new ArrayList<>();
-        prefix.add(1);       // sentinel so prefix.get(0) = 1
-        lastZeroIndex = 0;
+        prefixProducts = new ArrayList<>();
+        prefixProducts.add(1); // Initialize with 1 for easy multiplication
     }
 
     public void add(int num) {
         if (num == 0) {
-            // Reset: clear everything and start fresh
-            prefix = new ArrayList<>();
-            prefix.add(1);
-            lastZeroIndex = 0;
+            // If we encounter a 0, reset the prefix products.
+            // Any product including this 0 will be 0.
+            prefixProducts.clear();
+            prefixProducts.add(1);
         } else {
-            prefix.add(prefix.get(prefix.size() - 1) * num);
+            // Multiply the new number with the last prefix product and add to list
+            int lastProduct = prefixProducts.get(prefixProducts.size() - 1);
+            prefixProducts.add(lastProduct * num);
         }
     }
 
     public int getProduct(int k) {
-        int size = prefix.size() - 1; // number of elements since last zero
-        if (k > size) {
-            // The last k elements include a zero
+        int size = prefixProducts.size();
+        // If k is greater than or equal to the size of the prefix list,
+        // it means the last k numbers include a 0, so the product is 0.
+        if (k >= size) {
             return 0;
         }
-        // prefix[size] / prefix[size - k]
-        return prefix.get(size) / prefix.get(size - k);
+        // The product of the last k numbers is the total product divided by
+        // the product before these k numbers.
+        return prefixProducts.get(size - 1) / prefixProducts.get(size - k - 1);
     }
 }
