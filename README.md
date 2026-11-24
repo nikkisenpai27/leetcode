@@ -1111,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nikhiltomar2712/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3290-maximum-multiplication-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1652,6 +1653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-string-compression-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3163-string-compression-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nikhiltomar2712/leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -2797,6 +2799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -3172,6 +3175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -4877,6 +4881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3290-maximum-multiplication-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3290-maximum-multiplication-score) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -5696,6 +5701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2926-maximum-balanced-subsequence-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3165-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3165-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -5887,6 +5893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nikhiltomar2712/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -6449,6 +6456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## String Matching
 |  |
 | ------- |
@@ -6471,6 +6479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -6496,6 +6505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Quickselect
 |  |
 | ------- |
