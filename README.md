@@ -1104,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3245-alternating-groups-iii](https://github.com/nikhiltomar2712/leetcode/tree/master/3245-alternating-groups-iii) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -3163,6 +3164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3282-reach-end-of-array-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
