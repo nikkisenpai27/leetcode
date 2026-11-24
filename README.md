@@ -1108,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -2792,6 +2793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3049-earliest-second-to-mark-indices-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3049-earliest-second-to-mark-indices-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhiltomar2712/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
@@ -3457,6 +3459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3267-count-almost-equal-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -6898,6 +6901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/nikhiltomar2712/leetcode/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/nikhiltomar2712/leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/nikhiltomar2712/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
+| [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 ## Prime Factorization
 |  |
 | ------- |
