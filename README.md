@@ -1110,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nikhiltomar2712/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3290-maximum-multiplication-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -4875,6 +4876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3290-maximum-multiplication-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nikhiltomar2712/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
