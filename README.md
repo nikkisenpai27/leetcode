@@ -1105,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-count-almost-equal-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -3741,6 +3742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nikhiltomar2712/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -4472,6 +4474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/nikhiltomar2712/leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3227-vowels-game-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -5280,6 +5283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -6149,6 +6153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/nikhiltomar2712/leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Design
 |  |
 | ------- |
@@ -6602,6 +6607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/nikhiltomar2712/leetcode/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/nikhiltomar2712/leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3227-vowels-game-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 ## Eulerian Circuit
 |  |
 | ------- |
