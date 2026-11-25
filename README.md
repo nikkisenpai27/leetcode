@@ -4494,6 +4494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nikhiltomar2712/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -5308,6 +5309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-maximum-total-reward-using-operations-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3181-maximum-total-reward-using-operations-ii) |
 | [3283-maximum-number-of-moves-to-kill-all-pawns](https://github.com/nikhiltomar2712/leetcode/tree/master/3283-maximum-number-of-moves-to-kill-all-pawns) |
 | [3287-find-the-maximum-sequence-value-of-array](https://github.com/nikhiltomar2712/leetcode/tree/master/3287-find-the-maximum-sequence-value-of-array) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -5866,6 +5868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhiltomar2712/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nikhiltomar2712/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
