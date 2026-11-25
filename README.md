@@ -1157,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/nikhiltomar2712/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhiltomar2712/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## String
@@ -2156,6 +2157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhiltomar2712/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/nikhiltomar2712/leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2811,6 +2813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3957-maximum-sum-of-m-non-overlapping-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3957-maximum-sum-of-m-non-overlapping-subarrays-ii) |
 ## Binary Tree
 |  |
@@ -6464,6 +6467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -6515,6 +6519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -7066,6 +7071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/nikhiltomar2712/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1316-distinct-echo-substrings](https://github.com/nikhiltomar2712/leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1923-longest-common-subpath](https://github.com/nikhiltomar2712/leetcode/tree/master/1923-longest-common-subpath) |
+| [3934-smallest-unique-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
