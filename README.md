@@ -1114,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -2144,6 +2145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-count-almost-equal-pairs-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3267-count-almost-equal-pairs-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nikhiltomar2712/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/nikhiltomar2712/leetcode/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhiltomar2712/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -2238,6 +2240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/nikhiltomar2712/leetcode/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhiltomar2712/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nikhiltomar2712/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -3594,6 +3597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3123-find-edges-in-shortest-paths](https://github.com/nikhiltomar2712/leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nikhiltomar2712/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhiltomar2712/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/nikhiltomar2712/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nikhiltomar2712/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
