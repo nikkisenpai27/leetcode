@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nikhiltomar2712/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -2810,6 +2811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3292-minimum-number-of-valid-strings-to-form-target-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3449-maximize-the-minimum-game-score](https://github.com/nikhiltomar2712/leetcode/tree/master/3449-maximize-the-minimum-game-score) |
 | [3488-closest-equal-element-queries](https://github.com/nikhiltomar2712/leetcode/tree/master/3488-closest-equal-element-queries) |
