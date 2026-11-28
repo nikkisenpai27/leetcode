@@ -1120,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3351-sum-of-good-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3351-sum-of-good-subsequences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikhiltomar2712/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3366-minimum-array-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/3366-minimum-array-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nikhiltomar2712/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhiltomar2712/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -4911,6 +4912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nikhiltomar2712/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3351-sum-of-good-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3351-sum-of-good-subsequences) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/nikhiltomar2712/leetcode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
+| [3366-minimum-array-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/3366-minimum-array-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3489-zero-array-transformation-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/3489-zero-array-transformation-iv) |
