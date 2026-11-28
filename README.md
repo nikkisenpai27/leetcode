@@ -2407,6 +2407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/nikhiltomar2712/leetcode/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -2608,6 +2609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/nikhiltomar2712/leetcode/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/nikhiltomar2712/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/nikhiltomar2712/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhiltomar2712/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhiltomar2712/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -3488,6 +3490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/nikhiltomar2712/leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3288-length-of-the-longest-increasing-path](https://github.com/nikhiltomar2712/leetcode/tree/master/3288-length-of-the-longest-increasing-path) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/nikhiltomar2712/leetcode/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nikhiltomar2712/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nikhiltomar2712/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -4913,6 +4916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-sum-of-good-subsequences](https://github.com/nikhiltomar2712/leetcode/tree/master/3351-sum-of-good-subsequences) |
 | [3352-count-k-reducible-numbers-less-than-n](https://github.com/nikhiltomar2712/leetcode/tree/master/3352-count-k-reducible-numbers-less-than-n) |
 | [3366-minimum-array-sum](https://github.com/nikhiltomar2712/leetcode/tree/master/3366-minimum-array-sum) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/nikhiltomar2712/leetcode/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhiltomar2712/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3448-count-substrings-divisible-by-last-digit](https://github.com/nikhiltomar2712/leetcode/tree/master/3448-count-substrings-divisible-by-last-digit) |
 | [3489-zero-array-transformation-iv](https://github.com/nikhiltomar2712/leetcode/tree/master/3489-zero-array-transformation-iv) |
